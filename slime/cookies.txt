@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.rawgit.com	TRUE	/	FALSE	1999999999	__cfduid	d970f4a8c1d7a6a93a351c0347d27c21f1548496617
+
