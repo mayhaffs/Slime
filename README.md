@@ -2,7 +2,7 @@
 Slime
 
 This IS NOT my code. 
-[Source](https://cdn.rawgit.com/marler8997/SlimeJavascript/master/SlimeVolleyballLegacy.html){:target="_blank"}
+[Source](https://cdn.rawgit.com/marler8997/SlimeJavascript/master/SlimeVolleyballLegacy.html)
 Used to HTTrack to and WebHTTrack to download.
 
 Intention of this repo is to learn how the JS works and potentially create a JS game dev activity.
@@ -15,7 +15,7 @@ Notes:
 
 I'm guessing this was a clone or manual emulation of the Java Version. It's pretty spot on with a couple bugs, seems like the Slime Volleyball I played back in highschool.
 
-The JS seems somewhat similar to the JS game build in [Eloquent JavaScript](https://eloquentjavascript.net/16_game.html){:target="_blank"}.
+The JS seems somewhat similar to the JS game build in [Eloquent JavaScript](https://eloquentjavascript.net/16_game.html).
 
 The AI slimes actually have a miss-jump percentage chance which I think is responsbile for when they miss on a serve.
 Ball speed is determined by x and y velocity values between small range (ex: 15-22).
