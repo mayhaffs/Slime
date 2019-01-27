@@ -2,7 +2,7 @@
 Slime
 
 This IS NOT my code. 
-Source: https://cdn.rawgit.com/marler8997/SlimeJavascript/master/SlimeVolleyballLegacy.html
+Source: https://cdn.rawgit.com/marler8997/SlimeJavascript/master/SlimeVolleyballLegacy.html.
 Used to HTTrack to and WebHTTrack to download.
 
 Intention of this repo is to learn how the JS works and potentially create a JS game dev activity.
